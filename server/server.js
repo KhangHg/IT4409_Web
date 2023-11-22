@@ -12,7 +12,8 @@ require("./modules/addressShop");
 require("./modules/size");
 require("./modules/categories");
 require("./modules/product");
-
+require("./modules/order");
+require("./modules/orderItem");
 
 //Import router
 const customerRouter = require("./routers/customerRouter");
